@@ -1,0 +1,13 @@
+D:\socketproject\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.exe
+D:\socketproject\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.deps.json
+D:\socketproject\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\socketproject\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\socketproject\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.dll
+D:\socketproject\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.pdb
+D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.dll
+D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.pdb
+D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
