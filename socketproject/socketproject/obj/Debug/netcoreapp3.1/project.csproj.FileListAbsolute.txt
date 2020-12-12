@@ -11,3 +11,16 @@ D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.csp
 D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.dll
 D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.pdb
 D:\socketproject\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+D:\socketproject\c--tcp-http\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.exe
+D:\socketproject\c--tcp-http\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.deps.json
+D:\socketproject\c--tcp-http\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\socketproject\c--tcp-http\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\socketproject\c--tcp-http\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.dll
+D:\socketproject\c--tcp-http\socketproject\socketproject\bin\Debug\netcoreapp3.1\project.pdb
+D:\socketproject\c--tcp-http\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+D:\socketproject\c--tcp-http\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\socketproject\c--tcp-http\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\socketproject\c--tcp-http\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\socketproject\c--tcp-http\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.dll
+D:\socketproject\c--tcp-http\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.pdb
+D:\socketproject\c--tcp-http\socketproject\socketproject\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache

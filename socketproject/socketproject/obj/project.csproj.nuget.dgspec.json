@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\socketproject\\socketproject\\socketproject\\project.csproj": {}
+    "D:\\socketproject\\c--tcp-http\\socketproject\\socketproject\\project.csproj": {}
   },
   "projects": {
-    "D:\\socketproject\\socketproject\\socketproject\\project.csproj": {
+    "D:\\socketproject\\c--tcp-http\\socketproject\\socketproject\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\socketproject\\socketproject\\socketproject\\project.csproj",
+        "projectUniqueName": "D:\\socketproject\\c--tcp-http\\socketproject\\socketproject\\project.csproj",
         "projectName": "project",
-        "projectPath": "D:\\socketproject\\socketproject\\socketproject\\project.csproj",
+        "projectPath": "D:\\socketproject\\c--tcp-http\\socketproject\\socketproject\\project.csproj",
         "packagesPath": "C:\\Users\\danam\\.nuget\\packages\\",
-        "outputPath": "D:\\socketproject\\socketproject\\socketproject\\obj\\",
+        "outputPath": "D:\\socketproject\\c--tcp-http\\socketproject\\socketproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danam\\AppData\\Roaming\\NuGet\\NuGet.Config",
